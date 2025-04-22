@@ -107,3 +107,8 @@ ENV/
 .vscode/
 .vs/
 .idea/
+
+
+# JLP
+vis/
+example_tutorial/
